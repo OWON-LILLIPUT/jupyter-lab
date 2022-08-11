@@ -11,7 +11,7 @@
 4、在 `Terminal` 中输入以下命令来安装 `jupyter-lab` 相关库。
 
 ```python
-pip3 install jupyter-lsp jupyter-server jupyterlab jupyterlab-lsp jupyterlab-github jupyterlab-git
+pip3 install jupyter-lsp jupyter-server jupyterlab jupyterlab-lsp jupyterlab-github
 ```
 
 
