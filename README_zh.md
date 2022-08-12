@@ -1,14 +1,14 @@
 # jupyter-lab
 
-简体中文 | [English](README_en.md)
+[English](README_en.md) | 简体中文
 
 ## 一、安装jupyter和jupyter-lab库
 
 1、将示波器连接到以太网。
 
-2、打开 `Pydroid3 App` ，点击左上角菜单按钮，在弹出的菜单中点击Pip。
+2、打开 `Pydroid3 App` ，点击左上角菜单按钮，在弹出的菜单中点击 `Pip` 。
 
-3、在Pip界面中点击 `QUICK INSTALL` ，在下方列表中分别找到如下的库并点击右侧的 `install` 进行安装。
+3、在 `Pip` 界面中点击 `QUICK INSTALL` ，在下方列表中分别找到如下的库并点击右侧的 `install` 进行安装。
 
 ```
 jupyter    matplotlib    scipy
@@ -38,15 +38,15 @@ jupyter-lab password
 
 ## 三、浏览器访问jupyter-lab
 
-1、使用如下命令启动jupyter-lab，ip设置为本机的ip，ip可自动选择，也可手动设置（wifi和以太网同时连接时），端口自选一个可用的即可。
+1、使用如下命令启动 `jupyter-lab` ，`ip` 设置为本机的 `ip` ，`ip` 可自动选择，也可手动设置（`wifi` 和以太网同时连接时），端口自选一个可用的即可。
 
-- 自动选择ip
+- 自动选择 `ip`
 
   ```
   ./Python/start_jupyterlab.sh 端口
   ```
 
-- 手动设置ip
+- 手动设置 `ip`
 
   ```
   ./Python/start_jupyterlab.sh ip地址 端口
@@ -68,7 +68,7 @@ http://示波器ip:端口/lab
 
 ## 四、运行示例脚本
 
-1、使用浏览器进入 `jupyter-lab` ，点击左侧 `Github` 图标，在上方的 `GITHUB USER` 框中按 `用户名/仓库名` 的格式输入存放代码的仓库，例如 `OWON-LILIPUT/jupyter-lab` 。
+1、使用浏览器进入 `jupyter-lab` ，点击左侧 `Github` 图标，在上方的 `GITHUB USER` 框中按 `用户名/仓库名` 的格式输入存放代码的仓库。例如 `OWON-LILIPUT/jupyter-lab` 。
 
 2、在文件列表中选择你要运行的脚本双击打开即可运行。
 
@@ -76,6 +76,18 @@ http://示波器ip:端口/lab
 
 ## 五、保存.py文件
 
-1、使用浏览器进入 `jupyter-lab` ，在主页的Launcher底部即可看见创建py文件的按钮。
+1、使用浏览器进入 `jupyter-lab` ，在主页的 `Launcher` 底部即可看见创建 `py` 文件的按钮。
 
-2、点击创建py文件后将调试好的代码复制粘贴进去保存即可。
+2、点击创建 `py` 文件后将调试好的代码复制粘贴进去保存即可。
+
+
+
+## 六、运行.py脚本
+
+1、打开 `Pydroid3 App` ，在主页右上角点击文件夹图标，在弹出的选项中点击 `Open` 。
+
+2、在弹出的界面点击 `InternalStorage` 进入内部存储。
+
+3、在内部存储中找到你保存的 `py` 文件点击即可打开。以示例代码为例，进入内部存储后点击 `Python` 文件夹，进入 `Python` 文件夹后点击 `get_scope_wave.py` 即可打开。
+
+4、打开 `py` 文件后点击右下角运行按钮即可运行代码。
