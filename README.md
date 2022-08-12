@@ -1,5 +1,7 @@
 # jupyter-lab
 
+简体中文 | [English](README_en.md)
+
 ## 一、安装jupyter和jupyter-lab库
 
 1、将示波器连接到以太网。
