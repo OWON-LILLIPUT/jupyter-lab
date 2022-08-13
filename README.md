@@ -76,7 +76,7 @@ English | [简体中文](README_zh.md)
 ## 5、Save .py file
 
 - Enter the `jupyter-lab` via browser. The button to create a `py` file can be seen at the bottom of the `Launcher` on the home page.
-- Click to create a `py` file and then copy and paste the code to save it.
+- Click to create a `py` file. Then copy the code into the editor and save it.
 
 
 
