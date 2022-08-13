@@ -1,6 +1,6 @@
 # jupyter-lab
 
-[English](README_en.md) | 简体中文
+[English](README.md) | 简体中文
 
 ## 一、安装jupyter和jupyter-lab库
 
