@@ -85,4 +85,4 @@ English | [简体中文](README_zh.md)
 - Open the `Pydroid3` application. Click the folder icon in the upper right corner of the home page and click `Open` in the pop-up options.
 - Click `InternalStorage` in the pop-up interface to enter internal storage.
 - Find the `py` file you saved in the internal storage and click to open it. Take the sample code as an example. Entering the internal storage and click the `Python` folder. After entering the `Python` folder, click `get_scope_wave.py` and it will be opened.
-- Open the `py` file and click the run button in the lower right corner to run the code.
+- Click the run button in the lower right corner to run the code.
