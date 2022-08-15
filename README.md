@@ -68,8 +68,14 @@ English | [简体中文](README_zh.md)
 
 ## 4、Run example code
 
-- Enter the `jupyter-lab` via browser. Click the `GitHub` icon on the left and input the repository name in the `GITHUB USER` box. Such as `OWON-LILIPUT/jupyter-lab`.
-- Select the script you want to run in the file list and double-click to run it.
+- Run `GitHub` Code
+  - Enter the `jupyter-lab` via browser. Click the `GitHub` icon on the left and input the repository name in the `GITHUB USER` box. Such as `OWON-LILIPUT/jupyter-lab`.
+  - Select the code you want to run in the file list and double-click to run it.
+
+
+- Run `Local` Code
+  - Enter the `jupyter-lab` via browser.   Click the `Directory` icon on the left and find `Python directory` . We prepared some code in advance.
+  - Select the code you want to run in the file list and double-click to run it.
 
 
 
