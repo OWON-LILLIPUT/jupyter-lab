@@ -46,23 +46,31 @@ jupyter-lab password
   ./Python/start_jupyterlab.sh 端口
   ```
 
+  ![Screenshot_3-1](./resources/Screenshot_3-1.png)
+
 - 手动设置 `ip`
 
   ```
   ./Python/start_jupyterlab.sh ip地址 端口
   ```
 
+![Screenshot_3-2](./resources/Screenshot_3-2.png)
+
 2、示波器本地访问，在浏览器输入如下网址
 
 ```sh
-http://127.0.0.1:端口/lab
+http://示波器ip:端口/lab 
 ```
+
+![Screenshot_3-3](./resources/Screenshot_3-3.png)
 
 3、局域网下电脑浏览器访问，输入如下网址
 
 ```sh
 http://示波器ip:端口/lab 
 ```
+
+![Screenshot_3-4](./resources/Screenshot_3-4.png)
 
 
 
@@ -74,10 +82,15 @@ http://示波器ip:端口/lab
 
 - 在文件列表中选择你要运行的脚本双击打开即可运行。
 
+  ![Screenshot_4-1](./resources/Screenshot_4-1.png)
+
 2、运行本地预置代码：
 
 - 使用浏览器进入 `jupyter-lab` ，点击左侧 `文件夹` 图标，在文件列表中找到 `Python` 文件夹，里面存放了一些预置脚本。
+
 - 选择你要运行的脚本双击打开即可运行。
+
+  ![Screenshot_4-2](./resources/Screenshot_4-2.png)
 
 
 
@@ -85,7 +98,11 @@ http://示波器ip:端口/lab
 
 1、使用浏览器进入 `jupyter-lab` ，在主页的 `Launcher` 底部即可看见创建 `py` 文件的按钮。
 
+![Screenshot_5-1](./resources/Screenshot_5-1.png)
+
 2、点击创建 `py` 文件后将调试好的代码复制粘贴进去保存即可。
+
+![Screenshot_5-2](./resources/Screenshot_5-2.png)
 
 
 
@@ -93,8 +110,20 @@ http://示波器ip:端口/lab
 
 1、打开 `Pydroid3 App` ，在主页右上角点击文件夹图标，在弹出的选项中点击 `Open` 。
 
+![Screenshot_6-1](./resources/Screenshot_6-1.png)
+
 2、在弹出的界面点击 `InternalStorage` 进入内部存储。
+
+![Screenshot_6-2](./resources/Screenshot_6-2.png)
 
 3、在内部存储中找到你保存的 `py` 文件点击即可打开。以示例代码为例，进入内部存储后点击 `Python` 文件夹，进入 `Python` 文件夹后点击 `get_scope_wave.py` 即可打开。
 
+![Screenshot_6-3](./resources/Screenshot_6-3.png)
+
+![Screenshot_6-4](./resources/Screenshot_6-4.png)
+
 4、打开 `py` 文件后点击右下角运行按钮即可运行代码。
+
+![Screenshot_6-5](./resources/Screenshot_6-5.png)
+
+![Screenshot_6-6](./resources/Screenshot_6-6.png)
