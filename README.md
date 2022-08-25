@@ -1,6 +1,6 @@
 # jupyter-lab
 
-English | [简体中文](README_zh.md)
+English | [简体中文](README_zh.md)          [**SCPI_WiKi**](https://github.com/OWON-LILIPUT/jupyter-lab/wiki/SCPI)
 
 ## 1、Install jupyter libraries and jupyter-lab libraries
 

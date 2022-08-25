@@ -1,6 +1,6 @@
 # jupyter-lab
 
-[English](README.md) | 简体中文
+[English](README.md) | 简体中文          [**SCPI_WiKi**](https://github.com/OWON-LILIPUT/jupyter-lab/wiki/SCPI)
 
 ## 一、安装jupyter和jupyter-lab库
 
