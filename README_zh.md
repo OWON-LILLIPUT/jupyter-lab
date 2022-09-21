@@ -129,3 +129,15 @@ http://示波器ip:端口/lab
 ![Screenshot_6-5](./resources/Screenshot_6-5.png)
 
 ![Screenshot_6-6](./resources/Screenshot_6-6.png)
+
+
+
+## 七、使用PyCharm开发PyQt
+
+1、 Pycharm是由jetbrains开发的优秀的python IDE。正如所有其它 JetBrains 集成开发环境一样，PyCharm 具有智能代码编辑器，能理解 Python 的特性并提供卓越的生产力推进工具：**自动代码格式化**、**代码完成**、**重构**、**自动导入**和**一键代码导航**等。这些功能在先进代码分析程序的支持下，使 PyCharm 成为 Python 专业开发人员和刚起步人员使用的有力工具。
+
+2、为了方便开发，可以再PyCharm上进行代码编写调试，完成后传输到机器上运行。
+
+3、PyQt Demo运行示例
+
+![Screenshot_7-1](./resources/Screenshot_7-1.png)

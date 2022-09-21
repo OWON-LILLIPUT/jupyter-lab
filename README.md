@@ -128,3 +128,15 @@ English | [简体中文](README_zh.md)
 ![Screenshot_6-5](./resources/Screenshot_6-5.png)
 
 ![Screenshot_6-6](./resources/Screenshot_6-6.png)
+
+
+
+## 7、Use PyCharm to develop PyQt
+
+1、Pycharm is an excellent python IDE developed by jetbrains. Like all other JetBrains integrated development environments. PyCharm has an intelligent code editor that can understand Python's features and provide excellent productivity promotion tools: **automatic code formatting**, **code completion**, **refactoring**, **automatic import** and **one click code navigation**. Supported by advanced code analysis programs, these functions make PyCharm a powerful tool for Python professional developers and beginners.
+
+2、To facilitate development, code can be written and debugged on PyCharm and then transferred to the machine for running.
+
+3、PyQt Demo running example
+
+![Screenshot_7-1](./resources/Screenshot_7-1.png)
