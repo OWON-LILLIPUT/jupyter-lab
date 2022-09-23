@@ -63,11 +63,11 @@ def exit_all():
     g_tcp_socket.close()
 
 
-class GetFrequency(QtCore.QObject):
+class GetOSCData(QtCore.QObject):
     data_signal = pyqtSignal(object)
 
     def __int__(self):
-        super(GetFrequency, self).__int__()
+        super(GetOSCData, self).__int__()
 
     def runWork(self):
         while True:
@@ -80,7 +80,7 @@ class GetFrequency(QtCore.QObject):
 
 
 class MainWindow(QWidget):
-    getFrequency = GetFrequency()
+    getFrequency = GetOSCData()
     thread = QtCore.QThread()
 
     def __init__(self, parent=None):
