@@ -80,7 +80,7 @@ class GetOSCData(QtCore.QObject):
 
 
 class MainWindow(QWidget):
-    getFrequency = GetOSCData()
+    getOSCData = GetOSCData()
     thread = QtCore.QThread()
 
     def __init__(self, parent=None):
@@ -130,9 +130,9 @@ class MainWindow(QWidget):
         mainLayout.addWidget(self.qtChart)
         mainLayout.addLayout(buttonLayout)
         self.setLayout(mainLayout)
-        self.getFrequency.moveToThread(self.thread)
-        self.getFrequency.data_signal.connect(self.updateValue)
-        self.thread.started.connect(self.getFrequency.runWork)
+        self.getOSCData.moveToThread(self.thread)
+        self.getOSCData.data_signal.connect(self.updateValue)
+        self.thread.started.connect(self.getOSCData.runWork)
         self.thread.start()
 
     def button1_ops(self):
