@@ -4,7 +4,15 @@
 
 [**SCPI_WiKi**](https://github.com/OWON-LILIPUT/jupyter-lab/wiki/SCPI)
 
-## 一、安装jupyter和jupyter-lab库
+## 一、下载Pydroid3离线库
+
+1、访问 `xxx` 下载 `Pydroid3` 离线库。
+
+2、下载完成后打开机器的文件管理 `App` ，进入 `Android` 文件夹，在里面新建 `obb` 文件夹，新建完成后进入 `obb` 文件夹，在里面新建 `ru.iiec.pydroid3.quickinstallrepo` 文件夹。
+
+3、将下载的离线库放入 `ru.iiec.pydroid3.quickinstallrepo` 文件夹即可。
+
+## 二、安装jupyter和jupyter-lab库
 
 1、将示波器连接到以太网。
 
@@ -13,7 +21,7 @@
 3、在 `Pip` 界面中点击 `QUICK INSTALL` ，在下方列表中分别找到如下的库并点击右侧的 `install` 进行安装。
 
 ```
-jupyter    matplotlib    scipy
+jupyter    pyqt    matplotlib    scipy
 ```
 
 4、安装完成后点击左上角返回按钮返回主界面，然后再点击左上角菜单按钮，在弹出的菜单中点击 `Terminal` 。
@@ -26,7 +34,7 @@ jupyter    matplotlib    scipy
 
 
 
-## 二、配置jupyter-lab登录密码
+## 三、配置jupyter-lab登录密码
 
 1、返回App主页面，点击左上角菜单按钮，在弹出的菜单中点击 `Terminal` 。
 
@@ -38,7 +46,7 @@ jupyter-lab password
 
 
 
-## 三、浏览器访问jupyter-lab
+## 四、浏览器访问jupyter-lab
 
 1、使用如下命令启动 `jupyter-lab` ，`ip` 设置为本机的 `ip` ，`ip` 可自动选择，也可手动设置（`wifi` 和以太网同时连接时），端口自选一个可用的即可。
 
@@ -76,7 +84,7 @@ http://示波器ip:端口/lab
 
 
 
-## 四、运行示例脚本
+## 五、运行示例脚本
 
 1、运行 `GitHub` 代码：
 
@@ -96,7 +104,7 @@ http://示波器ip:端口/lab
 
 
 
-## 五、保存.py文件
+## 六、保存.py文件
 
 1、使用浏览器进入 `jupyter-lab` ，在主页的 `Launcher` 底部即可看见创建 `py` 文件的按钮。
 
@@ -108,7 +116,7 @@ http://示波器ip:端口/lab
 
 
 
-## 六、运行.py脚本
+## 七、运行.py脚本
 
 1、打开 `Pydroid3 App` ，在主页右上角点击文件夹图标，在弹出的选项中点击 `Open` 。
 
@@ -132,7 +140,7 @@ http://示波器ip:端口/lab
 
 
 
-## 七、使用PyCharm开发PyQt
+## 八、使用PyCharm开发PyQt
 
 1、 Pycharm是由jetbrains开发的优秀的python IDE。正如所有其它 JetBrains 集成开发环境一样，PyCharm 具有智能代码编辑器，能理解 Python 的特性并提供卓越的生产力推进工具：**自动代码格式化**、**代码完成**、**重构**、**自动导入**和**一键代码导航**等。这些功能在先进代码分析程序的支持下，使 PyCharm 成为 Python 专业开发人员和刚起步人员使用的有力工具。
 
