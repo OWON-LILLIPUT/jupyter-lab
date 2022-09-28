@@ -6,7 +6,7 @@ English | [简体中文](README_zh.md)
 
 ## 1、Download Pydroid3 offline library
 
-- Access the `xxx` download `Pyroid3` offline library.
+- Access the  [GoogleDrive](https://drive.google.com/file/d/1LjAXf11ubn4tivQE7K1kL6wfOIgLjqmN/view?usp=sharing) or [BaiduNetDisk](https://pan.baidu.com/s/1aID5IbcW23gGj2UfjrBmFQ?from=init  提取码： 0000) download `Pyroid3` offline library.
 - After downloading, open the file management `App` of the machine. Enter the `Android` folder and create a new `obb` folder. Then enter the `obb` folder and create a new `ru.iiec.pythoid3.quickinstallrepo` folder.
 - Put the downloaded offline library into the `ru.iiec.pythoid3.quickinstallrepo` folder.
 
@@ -19,7 +19,7 @@ English | [简体中文](README_zh.md)
 - Click `QUICK INSTALL` in the `Pip` interface. Find the following libraries in the list below and click `install`  button on the right to install.
 
   ```
-  jupyter    pyqt    matplotlib    scipy
+  jupyter    PyQt5    matplotlib    scipy
   ```
 
 - After installation, click the return button in the upper left corner to return to the main interface. Then click the menu button in the upper left corner and click `Terminal` in the pop-up menu.

@@ -6,7 +6,7 @@
 
 ## 一、下载Pydroid3离线库
 
-1、访问 `xxx` 下载 `Pydroid3` 离线库。
+1、访问 [谷歌网盘](https://drive.google.com/file/d/1LjAXf11ubn4tivQE7K1kL6wfOIgLjqmN/view?usp=sharing) 或者 [百度网盘](https://pan.baidu.com/s/1aID5IbcW23gGj2UfjrBmFQ?from=init  提取码： 0000) 下载 `Pydroid3` 离线库。
 
 2、下载完成后打开机器的文件管理 `App` ，进入 `Android` 文件夹，在里面新建 `obb` 文件夹，新建完成后进入 `obb` 文件夹，在里面新建 `ru.iiec.pydroid3.quickinstallrepo` 文件夹。
 
@@ -21,7 +21,7 @@
 3、在 `Pip` 界面中点击 `QUICK INSTALL` ，在下方列表中分别找到如下的库并点击右侧的 `install` 进行安装。
 
 ```
-jupyter    pyqt    matplotlib    scipy
+jupyter    PyQt5    matplotlib    scipy
 ```
 
 4、安装完成后点击左上角返回按钮返回主界面，然后再点击左上角菜单按钮，在弹出的菜单中点击 `Terminal` 。
