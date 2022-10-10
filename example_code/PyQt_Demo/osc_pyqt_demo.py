@@ -92,7 +92,7 @@ class MainWindow(QWidget):
         self.qtChart = QChartView()
 
         self.x_Aix = QValueAxis()
-        self.x_Aix.setRange(0, 900)
+        self.x_Aix.setRange(0, 1800)
         self.x_Aix.setLabelFormat("%f")
         self.x_Aix.setTickCount(10)
         self.x_Aix.setMinorTickCount(0)
@@ -106,7 +106,7 @@ class MainWindow(QWidget):
         self.series = QLineSeries()
 
         self._1_point_list = []
-        for i in range(900):
+        for i in range(1800):
             self._1_point_list.append(QPointF(i, 0))
         self.series.append(self._1_point_list)
 
