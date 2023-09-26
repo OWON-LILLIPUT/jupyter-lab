@@ -12,6 +12,8 @@
 
 3、将下载的离线库 `main.7.ru.iiec.pydroid3.quickinstallrepo.obb` 放入 `ru.iiec.pydroid3.quickinstallrepo` 文件夹即可。
 
+![Screenshot_1-1](./resources/Screenshot_1-1.png)
+
 ## 二、安装离线库
 
 1、将示波器连接到以太网。

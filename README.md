@@ -7,8 +7,12 @@ English | [简体中文](README_zh.md)
 ## 1、Download Pydroid3 offline library
 
 - Access the  [GoogleDrive](https://drive.google.com/file/d/1LjAXf11ubn4tivQE7K1kL6wfOIgLjqmN/view?usp=sharing) or [BaiduNetDisk](https://pan.baidu.com/s/1aID5IbcW23gGj2UfjrBmFQ) download `Pyroid3` offline library ` main.7.ru.iiec.pydroid3.quickinstallrepo.obb `.
+
 - After downloading, open the file management `App` of the machine. Enter the `Android` folder and create a new `obb` folder. Then enter the `obb` folder and create a new `ru.iiec.pydroid3.quickinstallrepo` folder.
+
 - Put the downloaded offline library ` main.7.ru.iiec.pydroid3.quickinstallrepo.obb ` into the `ru.iiec.pydroid3.quickinstallrepo` folder.
+
+  ![Screenshot_1-1](./resources/Screenshot_1-1.png)
 
 ## 2、Install jupyter libraries and jupyter-lab libraries
 
