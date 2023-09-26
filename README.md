@@ -2,7 +2,7 @@
 
 English | [简体中文](README_zh.md)
 
-[**SCPI_DOC**](./resources/FDS_Series_Programming_Manual_V1.0.0_(20230926).pdf)
+[**FDS Series Programming Manual**](./resources/FDS_Series_Programming_Manual_V1.0.0_(20230926).pdf)
 
 ## 1、Download Pydroid3 offline library
 

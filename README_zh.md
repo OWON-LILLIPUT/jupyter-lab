@@ -2,7 +2,7 @@
 
 [English](README.md) | 简体中文
 
-[**SCPI_DOC**](./resources/FDS Series Programming Manual_V1.0.0（20230926）.pdf)
+[**FDS Series编程手册**](./resources/FDS_Series_Programming_Manual_V1.0.0_(20230926).pdf)
 
 ## 一、下载Pydroid3离线库
 
