@@ -14,7 +14,7 @@ English | [简体中文](README_zh.md)
 
   ![Screenshot_1-1](./resources/Screenshot_1-1.png)
 
-## 2、Install jupyter libraries and jupyter-lab libraries
+## ~~2、Install jupyter libraries and jupyter-lab libraries~~(Due to Python's partial dependency library updates not supporting the arm architecture compiler, jupyter is temporarily unable to be installed and used normally)
 
 - Connect the oscilloscope to the Internet.
 
